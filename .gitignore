@@ -47,3 +47,6 @@ desktop.ini
 # Streamlit
 .streamlit/secrets.toml
 
+# TODO tracking
+TODO.md
+
